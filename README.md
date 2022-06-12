@@ -5,9 +5,14 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  
+  <a href="https://discord.com/channels/825083832977850418">
+  <img src="https://img.shields.io/badge/Giuto-494949?style=flat&logo=discord&logoColor=8B6BFF" alt="Discord Badge"/>
+  </a>
+  
+  <img src="https://img.shields.io/badge/Telegram-494949?style=flat&logo=telegram&logoColor=red" alt="Telegram Badge"/>
+
+
 </div>
 
 <!--
