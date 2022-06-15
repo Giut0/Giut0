@@ -1,10 +1,10 @@
-<div id="h" align="center">
+<div id="header" align="center">
   <h1> Hello world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
 
-<div id="header" align="center">
+<div id="header gif" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
 
@@ -22,9 +22,16 @@
   <img src="https://img.shields.io/badge/StackOverflow-494949?style=flat&logo=stackoverflow&logoColor=red" alt="Telegram Badge"/>
   </a>  
   
+  <a href="https://github.com/Giuto01?tab=followers">
+  <img src="https://img.shields.io/github/followers/Giuto01.svg?style=social&label=Follow&maxAge=2592000" alt="Github follow Badge"/>
+  </a>
+  
  <div id="profileViews">
  <img src="https://komarev.com/ghpvc/?username=your-Giuto01&style=flat-square&color=blue" alt=""/>
  </div>
+  
+  
+  
 </div>
 
 --- 
@@ -51,3 +58,13 @@ In my free time ⚡, I love playing the piano 🎹, reading many books 📖 and 
   
 </div>
 
+---
+## ✏️ My favorite quote
+
+> A bug is never just a mistake. It represents something bigger.  
+> An error of thinking.  
+> That makes you who you are. Mr.Robot  
+
+<div id="bottom gif" align="center">
+  <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="200"/>
+</div>
