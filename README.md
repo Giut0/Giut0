@@ -59,7 +59,7 @@ In my free time ⚡, I love playing the piano 🎹, reading many books 📖 and 
 </div>
 
 ---
-## ✏️ My favorite quote
+## ✏️ Mindstate
 
 > A bug is never just a mistake. It represents something bigger.  
 > An error of thinking.  
