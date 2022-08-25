@@ -41,7 +41,7 @@ I'm a Computer Science (UniBa) student in Italy 🇮🇹 and I'm interested abou
 * 💭 Theory of computation,
 * 🌳 Algorithm and data structures, 
 * 🤖 Artificial intelligence,
-* 👀 Computer vision,
+* 👁️ Computer vision,
 * 🔭 Quantum computing.
 
 In my free time ⚡, I love playing the piano 🎹, reading many books 📖 and swimming 🏊
