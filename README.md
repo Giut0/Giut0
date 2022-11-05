@@ -26,9 +26,11 @@
   <img src="https://img.shields.io/github/followers/Giuto01.svg?style=social&label=Follow&maxAge=2592000" alt="Github follow Badge"/>
   </a>
   
- <div id="profileViews">
- <img src="https://komarev.com/ghpvc/?username=your-Giuto01&style=flat-square&color=blue" alt=""/>
- </div>
+</br>
+
+</br>
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6FZX1T)
   
   
   
