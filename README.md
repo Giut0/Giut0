@@ -55,9 +55,9 @@ In my free time ⚡, I love playing the piano 🎹, reading many books 📖 and 
 
 <div id="stats" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giuto01&theme=darcula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Giut0&theme=darcula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuto01&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giut0&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
