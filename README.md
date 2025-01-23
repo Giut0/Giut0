@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Discord-494949?style=flat&logo=discord&logoColor=8B6BFF" alt="Discord Badge"/>
   </a>
 
-  <a href="https://t.me/Giuto01">
-  <img src="https://img.shields.io/badge/Telegram-494949?style=flat&logo=telegram&logoColor=red" alt="Telegram Badge"/>
-  </a>
-
   <a href="https://stackoverflow.com/users/19269921/giuto">
   <img src="https://img.shields.io/badge/StackOverflow-494949?style=flat&logo=stackoverflow&logoColor=red" alt="Telegram Badge"/>
   </a>  
@@ -29,10 +25,6 @@
 </br>
 
 </br>
-  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6FZX1T)
-  
-  
   
 </div>
 
